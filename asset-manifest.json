@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Photowall/static/css/main.19116b6b.chunk.css",
+    "main.js": "/Photowall/static/js/main.a6f655bb.chunk.js",
+    "main.js.map": "/Photowall/static/js/main.a6f655bb.chunk.js.map",
+    "runtime-main.js": "/Photowall/static/js/runtime-main.0bb4dc59.js",
+    "runtime-main.js.map": "/Photowall/static/js/runtime-main.0bb4dc59.js.map",
+    "static/js/2.2c91028c.chunk.js": "/Photowall/static/js/2.2c91028c.chunk.js",
+    "static/js/2.2c91028c.chunk.js.map": "/Photowall/static/js/2.2c91028c.chunk.js.map",
+    "index.html": "/Photowall/index.html",
+    "static/css/main.19116b6b.chunk.css.map": "/Photowall/static/css/main.19116b6b.chunk.css.map",
+    "static/js/2.2c91028c.chunk.js.LICENSE.txt": "/Photowall/static/js/2.2c91028c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bb4dc59.js",
+    "static/js/2.2c91028c.chunk.js",
+    "static/css/main.19116b6b.chunk.css",
+    "static/js/main.a6f655bb.chunk.js"
+  ]
+}
